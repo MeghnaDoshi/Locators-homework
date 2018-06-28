@@ -37,8 +37,7 @@ public class Demoqa {
 
         else
         { System.out.print("Your Test case is Fail");}
-
-       // driver.close();
+        driver.close();
 
 
     }
